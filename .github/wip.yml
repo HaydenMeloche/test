@@ -1,7 +1,9 @@
-terms:
-- do not merge
-- ⛔
-- 😀
-- WIP
-- 🚧
-- 🐱
+- terms: ⛔
+  locations:
+  - title
+  - label_name
+- terms:
+  - fixup!
+  - squash!
+  locations: commit_subject
+- checkboxes: yes
