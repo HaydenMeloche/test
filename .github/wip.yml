@@ -6,4 +6,4 @@
   - fixup!
   - squash!
   locations: commit_subject
-- checkboxes: yes
+- checkboxes: true
